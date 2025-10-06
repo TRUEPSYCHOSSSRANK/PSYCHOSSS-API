@@ -1,0 +1,6 @@
+@PSYCHOSSSAPI_HostAddress = http://localhost:5297
+
+GET {{PSYCHOSSSAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
